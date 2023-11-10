@@ -1,17 +1,32 @@
-# Facebook - Project 
+# Facebook - recreat 
 
-    This is a project to study the flutter framework (web), where the front-end of facebook was recreated
+### - An OpenSource, Facebook Front-end 
 
-## Responsiveness
+##  Made With 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30">
 
-- [x] Web
-- [x] Android/Ios
+## Install and Running 
 
-## How to Use
-
-### to run the app web, you need a flutter installed in your computer, and google chrome ou one navegator based on chrome.
-
-```console
-cd facebook
-flutter run
+## - Clone the Repository 
+``` bash
+ git clone https://github.com/unkv0wn/facebook.git && cd facebook
 ```
+
+## - Install Dependencies 
+``` bash
+ flutter pub get
+```
+## - Run
+``` bash
+ flutter run
+```
+
+## Features
+
+    - [✔️] Desktop Responsive
+    - [✔️] Mobile Responsive
+    - [✖️] interaction
+
+
+          
+          
